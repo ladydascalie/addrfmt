@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/LUSHDigital/addrfmt"
+	"github.com/ladydascalie/addrfmt"
 )
 
 func Test_Line(t *testing.T) {

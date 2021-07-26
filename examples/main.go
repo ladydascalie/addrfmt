@@ -4,7 +4,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/LUSHDigital/addrfmt"
+	"github.com/ladydascalie/addrfmt"
 )
 
 var tmpl = `{{ fmt_receipient "RECIPIENT" }}
